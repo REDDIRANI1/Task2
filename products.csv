@@ -1,1 +1,11 @@
-Latitude,Longitude,CategoryID,SubCategoryID,ProductName,Price,MRP,Discount,Rating
+Latitude | Longitude | CategoryID | SubCategoryID | ProductName | Price | MRP | Discount | Rating
+28.6550 | 77.2000 | 1 | 101 | Green Tea | 80.0 | 100 | 20.0 | 4.5
+28.6651 | 77.2502 | 1 | 102 | Apple Juice | 90.0 | 110 | 18.18 | 4.2
+28.6032 | 77.1324 | 2 | 201 | Potato Chips | 45.0 | 60 | 25.0 | 4.0
+28.6211 | 77.1981 | 2 | 202 | Oreo | 50.0 | 70 | 28.57 | 4.7
+28.6722 | 77.1222 | 2 | 201 | Masala Chips | 40.0 | 55 | 27.27 | 4.3
+28.6111 | 77.1702 | 1 | 101 | Black Tea | 70.0 | 90 | 22.22 | 4.4
+28.6414 | 77.2123 | 1 | 102 | Lemonade | 65.0 | 80 | 18.75 | 4.6
+28.6205 | 77.1555 | 2 | 202 | Digestive Biscuits | 35.0 | 50 | 30.0 | 4.1
+28.6611 | 77.1991 | 1 | 102 | Orange Juice | 95.0 | 120 | 20.83 | 4.2
+28.6888 | 77.1777 | 1 | 101 | Energy Drink | 110.0 | 135 | 18.52 | 4.5
